@@ -11,5 +11,5 @@ The homework consists in analyzing the text of Airbnb property listings and buil
 4) `data/map.html` : the map in html format because of on github it is impossible to show it.
 
 ## Preview of the project:
-In case the maps in the *Bonus Step* are not previewed properly, you can preview them at [this link](https://nbviewer.jupyter.org/github/DavideToma/Group-32---HW-3/blob/master/Homework3-final%20version.ipynb)
+In case the maps in the *Bonus Step* are not previewed properly, you can preview them at [this link](https://nbviewer.jupyter.org/github/DavideToma/Group-32---HW-3/blob/master/Homework3-final%20version.ipynb).
 If you can't see it with nbviewer, we put in the repository the html file called 'map'.
